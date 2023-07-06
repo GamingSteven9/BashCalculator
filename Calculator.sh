@@ -1,8 +1,8 @@
-echo Enter the first number:
+echo Enter the first integer:
 
 read x1
 
-echo Enter the second number:
+echo Enter the second integer:
 
 read x2
 
